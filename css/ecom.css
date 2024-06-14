@@ -1,0 +1,235 @@
+.theme-color{ background-color: #1abc9c;}
+
+.text-color{ color: #1abc9c!important;}
+
+.navbar-nav li a:hover
+{
+    color: #1abc9c;
+}
+
+.my-caption{
+    bottom: 310px;
+}
+
+@media screen and (max-width: 500px)
+{
+    .my-caption
+    {
+        bottom: 10px;
+    }   
+}
+
+.my-carousel{
+    background-color: rgba(0, 0, 0, 0.48);
+    width: 100%;
+    height: 805px;
+    position: absolute;
+    bottom: 0;
+}
+
+.carousel-control-prev-icon
+{
+    background-color: #1abc9c;
+    position: absolute;
+    top: 350px;
+    left: 0px;
+    padding: 40px;
+}
+
+.carousel-control-next-icon
+{
+    background-color: #1abc9c;
+    position: absolute;
+    top: 350px;
+    right: 0px;
+    padding: 40px;
+}
+
+.feature-card:hover h4
+{
+    color: #1abc9c;
+}
+
+.new-collection-bg{ background-color: #e9f0fd;}
+
+.line
+{
+    width: 200px;
+    height: 10px;
+    background-color: #1abc9c;
+    margin-left: 33%;
+}
+
+.collection-body
+{
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    right: 0;
+}
+
+.btn1
+{
+    background-color: #323232;
+    color: white;
+    width: 80%;
+    float: left;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 18px;
+    padding: 10px;
+}
+
+.btn2
+{
+    background-color: #323232;
+    color: white;
+    width: 20%;
+    float: left;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 18px;
+    padding: 10px;
+}
+
+.collection-body-hover
+{
+    height: 89.3%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    right: 0;
+    top: 0;
+    display: none;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.card-collection:hover .collection-body-hover
+{
+    display: block;
+}
+
+.mt-10
+{
+    margin-top: 150px;
+}
+
+.card-collection:hover .btn1
+{
+    background-color: #1abc9c;
+    color: white;
+}
+
+.active-filter-btn
+{
+    color:white !important;
+    
+}
+
+.bg-end
+{
+    background-image: url(../img/alyssa-strohmann-TS--uNw-JqE-unsplash.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.inner-bg
+{
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+.member-image
+{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    margin-left: 40%;
+}
+
+.customer-caption
+{
+    position: relative;
+    top: 30px;
+    height: 240px;
+    width: 70%;
+    padding: 20px;
+    color: black;
+}
+
+.customer-indicators
+{
+   top: 450px;
+}
+
+.my-li1
+{
+    background-image: url("../img/aiony-haust-3TLl_97HNJo-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-radius: 50%;
+    border: 3px solid black!important;
+}
+
+.my-li2
+{
+    background-image: url("../img/mark-farias-dt60oksDTx8-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-radius: 50%;
+    border: 3px solid black!important;
+}
+
+.my-li3
+{
+    background-image: url("../img/xu-duo-w2p_6UBRSTY-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;
+    border: 3px solid black!important;
+}
+
+.newsletter-section
+{
+    margin-top: 100px;
+    background-image: url('../img/clem-onojeghuo-24vjqGCu0pI-unsplash.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+}
+
+.p-t-100{
+    padding-top: 90px;
+}
+
+.line1{
+    width: 200px;
+    height: 10px;
+    background-color: white;
+    margin-left: 33%;
+}
+
+.submit-btn{
+    background-color: #1abc9c!important;
+    color: white;
+}
+
+.submit-position{
+    position: absolute;
+    right: 1px;
+    top: 0px;
+}
+
+.line2{
+    width: 100px;
+    height: 4px;
+    background-color: #1abc9c!important;
+    margin-left: 33%;
+}
+
